@@ -1,0 +1,324 @@
+/* styles.css */
+
+.Desktop1 {
+    position: relative;
+    width: 100vw;
+    margin: 0 auto;
+}
+
+.Background {
+    width: 1977px;
+    height: 1056px;
+    left: -312px;
+    top: -26px;
+    position: absolute;
+}
+
+.PexelsDamirMijailovic44927361 {
+    width: 1050px;
+    height: 1573.24px;
+    left: 1803.62px;
+    top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    backdrop-filter: blur(35px);
+}
+
+.Rectangle6 {
+    width: 1495px;
+    height: 1038px;
+    left: 285px;
+    top: 18px;
+    position: absolute;
+    background: white;
+    backdrop-filter: blur(10px);
+}
+
+.Image1 {
+    max-width: 100%;
+    height: auto;
+    left: 0;
+    top: 18px;
+    position: absolute;
+    box-shadow: 11.5px 11.5px 11.5px;
+    filter: blur(11.50px);
+    object-fit: fill;
+}
+
+.Rectangle1 {
+    width: 1049px;
+    height: 507px;
+    left: 195px;
+    top: 258px;
+    position: absolute;
+    background: rgba(38.45, 37.90, 37.90, 0.80);
+    box-shadow: 6.699999809265137px 6.699999809265137px 6.699999809265137px;
+    border-radius: 36px;
+    filter: blur(6.70px);
+}
+
+.Logof21 {
+	width: 10%;
+    height: auto;
+    left: 1%;
+    top: 2%;
+    position: absolute;
+    width: 94px;
+    height: 94px;
+    left: 18px;
+    top: 14px;
+    position: absolute;
+    mix-blend-mode: exclusion;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Countdown {
+    width: 972px;
+    height: 141px;
+    left: 234px;
+    top: 314px;
+    position: absolute;
+}
+
+.Countdown div {
+    width: 972px;
+    height: 141px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 110px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    letter-spacing: 13.75px;
+    word-wrap: break-word;
+}
+
+.Rectangle2 {
+    width: 199px;
+    height: 199px;
+    left: 281px;
+    top: 516px;
+    position: absolute;
+    background: #520404;
+    border-radius: 22px;
+}
+
+.Rectangle3 {
+    width: 199px;
+    height: 199px;
+    left: 506px;
+    top: 516px;
+    position: absolute;
+    background: #520404;
+    border-radius: 22px;
+}
+
+.Rectangle4 {
+    width: 199px;
+    height: 199px;
+    left: 733px;
+    top: 516px;
+    position: absolute;
+    background: #520404;
+    border-radius: 22px;
+}
+
+.Rectangle5 {
+    width: 199px;
+    height: 199px;
+    left: 958px;
+    top: 516px;
+    position: absolute;
+    background: #520404;
+    border-radius: 22px;
+}
+
+.Group1 {
+    width: 141px;
+    height: 107px;
+    left: 310px;
+    top: 562px;
+    position: absolute;
+}
+
+.Group1 div {
+    width: 141px;
+    height: 83px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+.Group1 .Days {
+    width: 141px;
+    height: 21px;
+    left: 0px;
+    top: 86px;
+    position: absolute;
+    text-align: center;
+    color: #A5DEFF;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.Group2 {
+    width: 141px;
+    height: 107px;
+    left: 535px;
+    top: 562px;
+    position: absolute;
+}
+
+.Group2 div {
+    width: 141px;
+    height: 83px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+.Group2 .Hours {
+    width: 141px;
+    height: 21px;
+    left: 0px;
+    top: 86px;
+    position: absolute;
+    text-align: center;
+    color: #A5DEFF;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.Group3 {
+    width: 141px;
+    height: 107px;
+    left: 762px;
+    top: 562px;
+    position: absolute;
+}
+
+.Group3 div {
+    width: 141px;
+    height: 83px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+.Group3 .Minutes {
+    width: 141px;
+    height: 21px;
+    left: 0px;
+    top: 86px;
+    position: absolute;
+    text-align: center;
+    color: #A5DEFF;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.Group4 {
+    width: 141px;
+    height: 107px;
+    left: 987px;
+    top: 562px;
+    position: absolute;
+}
+
+.Group4 div {
+    width: 141px;
+    height: 83px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+.Group4 .Seconds {
+    width: 141px;
+    height: 21px;
+    left: 0px;
+    top: 86px;
+    position: absolute;
+    text-align: center;
+    color: #A5DEFF;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.Image2 {
+    width: 244px;
+    height: 244px;
+    left: 1181px;
+    top: -61px;
+    position: absolute;
+    mix-blend-mode: difference;
+}
+
+.Frame1 {
+    width: 100px;
+    height: 100px;
+    left: 997px;
+    top: 259px;
+    position: absolute;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .Logof21 {
+        width: 15%;
+        /* Adjust other styles as needed */
+    }
+
+    /* Add more responsive styles as needed */
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+    .Desktop1 {
+        width: 80%;
+    }
+
+    /* Add more responsive styles as needed */
+}
+
+@media only screen and (min-width: 1201px) {
+    .Desktop1 {
+        width: 60%;
+    }
+
+    /* Add more responsive styles as needed */
+}
